@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "name": "a2",
+  "description": "tutorial para crear una aplicacion node sin react, usando quizá ejs para las vistas. Se practica grid css y flex box",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3n01/julio2021.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3n01/julio2021/issues"
+  },
+  "homepage": "https://github.com/3n01/julio2021#readme"
+}
