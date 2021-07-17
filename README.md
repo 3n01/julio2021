@@ -1,0 +1,1 @@
+tutorial para crear una aplicacion node sin react, usando quizá ejs para las vistas. Se practica grid css y flex box
